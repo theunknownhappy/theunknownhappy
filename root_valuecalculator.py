@@ -1,11 +1,4 @@
-'''import math
-def alp(num1):
-    return math.pow(num1 , 1/2)
-a = alp(25)
-print (a)'''
-'''import math
-a = math.sqrt(36)
-print(a)'''
+# python program to calculate any root value of any number
 import math
 num1 = float(input("enter the number: "))
 
